@@ -40,7 +40,3 @@
 * `make test` - Покрытие unit-тестами c помощью библиотеки GTest
 * `make style` - Проверка кода на Google style
 * `make clean` - Удаление ненужных файлов
-
-## Запуск 3D_Viewer
-
-![Пример](images/3D_Viewer.gif)
